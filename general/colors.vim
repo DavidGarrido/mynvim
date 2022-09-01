@@ -1,5 +1,6 @@
 "the most basic configurations
 syntax on
+set t_Co=256
 "adjust java highlight to change the syntax highlighter
 highlight link JavaIdentifier NONE
 "adjust python highlight

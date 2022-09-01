@@ -12,14 +12,14 @@ Plug 'ghifarit53/tokyonight-vim'
 Plug 'lukas-reineke/indent-blankline.nvim'
 Plug 'sainnhe/sonokai'
 
-Plug 'kjwon15/vim-transparent'
+"Plug 'kjwon15/vim-transparent'
 Plug 'AlessandroYorba/Despacio'
 Plug 'sonph/onehalf', { 'rtp': 'vim' }
 Plug 'mhartington/oceanic-next'
 Plug 'wojciechkepka/bogster'
 Plug 'franbach/miramare'
 Plug 'frenzyexists/aquarium-vim', { 'branch': 'develop' }
-
+Plug 'sonph/onehalf', { 'rtp': 'vim' }
 
 "visual
 Plug 'vim-airline/vim-airline'

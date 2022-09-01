@@ -32,7 +32,7 @@ set ignorecase
 
 "set the cursorline and a column
 set cursorline
-set colorcolumn=120
+set colorcolumn=240
 highlight ColoColumn ctermbg=0 guibg=lightgrey
 
 "this sets the directions of the splits
